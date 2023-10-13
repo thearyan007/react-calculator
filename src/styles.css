@@ -55,3 +55,7 @@ body {
   color: white;
   font-size: 2.5rem;
 }
+
+.orange {
+  background-color: rgba(243, 172, 42, 0.75);
+}
